@@ -1,0 +1,1 @@
+insert into booking(booking_name) values('Lola');
